@@ -196,9 +196,6 @@ pytest test_main.py -v
 
 ---
 
-## 👨‍💻 Author
-
-**Rudro** — [@your-github](https://github.com/your-username)
 
 ---
 
